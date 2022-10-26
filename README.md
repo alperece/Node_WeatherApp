@@ -22,8 +22,3 @@ The current weather conditions are: few clouds
 
 -   Your program should be able to display the degrees also in Fahrenheit.
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 2 hours.
--   Use **Git properly**
