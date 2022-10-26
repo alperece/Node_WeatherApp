@@ -1,6 +1,6 @@
-## Instructions for students:
 
-### Weather CLI 
+
+### Weather App
 
 Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city. 
 
